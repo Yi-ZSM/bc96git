@@ -1,0 +1,19 @@
+git config --global user.name ""
+git config --global user.email ""
+git init : thông báo sẽ git cho folder này , chỉ làm 1 lần cho mỗi dự án
+
+git remote add orgin duong_dan_den_repo_git : kết nối folder hiện taiij với rep trên git
+vd : git remote add ỏgin https://github.com/PhamNguyen/Demogit.git
+
+git remote --v : kiểm tra lại thông tin
+
+-- đẩy code lên git hub
+ git add .
+ git commit -m " noidung commit "
+
+ git push 
+ ở lần push
+ gt push -u orgin main/master 
+
+ lần bình thường (not first)
+ git push
