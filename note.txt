@@ -17,3 +17,4 @@ git remote --v : kiểm tra lại thông tin
 
  lần bình thường (not first)
  git push
+dòng code edit trực tiếp trên github
